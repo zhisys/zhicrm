@@ -4,10 +4,39 @@
 ZhiCRM adalah solusi terintegrasi yang menyatukan kekuatan CRM, ERP, HRMS, dan perangkat lunak akuntansi ke dalam satu platform intuitif. Dengan ZhiCRM, Anda dapat mengoptimalkan operasional bisnis Anda, memperkuat hubungan pelanggan, mengelola sumber daya manusia dengan efisien, dan mengawasi keuangan perusahaan Anda, semuanya dalam satu tempat yang mudah diakses.
 
 ### Fitur Unggulan ZhiCRM:
-#### **CRM (Customer Relationship Management):**
-- Lacak peluang penjualan dan analisis data penjualan.
-- Interaksi pelanggan yang terorganisir dan pelacakan kepuasan pelanggan.
-- Manajemen kampanye pemasaran yang cerdas dan pengelolaan prospek dengan mudah.
+**CRM (Customer Relationship Management):**
+
+1. **Pelacakan Peluang Penjualan yang Akurat:**
+   - Pantau peluang penjualan dan tahapan pengembangannya secara real-time.
+   - Analisis data penjualan untuk mengidentifikasi tren dan peluang baru.
+
+2. **Manajemen Pelanggan yang Terorganisir:**
+   - Penyimpanan data pelanggan yang lengkap dengan informasi kontak dan catatan interaksi.
+   - Pengelolaan riwayat pembelian dan preferensi pelanggan untuk personalisasi layanan.
+
+3. **Pengelolaan Interaksi Pelanggan yang Efisien:**
+   - Pelacakan panggilan, email, dan pertemuan dengan pelanggan untuk memastikan tindak lanjut yang tepat.
+   - Pengingat otomatis untuk memastikan tidak ada interaksi pelanggan yang terlewatkan.
+
+4. **Analisis Kepuasan Pelanggan:**
+   - Pengukuran kepuasan pelanggan melalui survei dan umpan balik.
+   - Laporan kepuasan pelanggan untuk memahami area yang perlu ditingkatkan.
+
+5. **Manajemen Kampanye Pemasaran yang Cerdas:**
+   - Perencanaan, pelacakan, dan analisis hasil kampanye pemasaran.
+   - Pengiriman email pemasaran dan kampanye pemasaran berbasis target.
+
+6. **Pelacakan Prospek dengan Detail:**
+   - Identifikasi prospek potensial dan peluang penjualan baru.
+   - Pelacakan interaksi dan preferensi prospek untuk strategi pemasaran yang lebih efektif.
+
+7. **Analisis Data Pelanggan yang Mendalam:**
+   - Visualisasi data penjualan dan perilaku pelanggan menggunakan grafik dan diagram.
+   - Analisis data untuk mengidentifikasi pola pembelian dan tren pelanggan.
+
+8. **Manajemen Penjualan yang Efisien:**
+   - Pengelolaan penawaran, estimasi, dan kontrak penjualan dengan mudah.
+   - Pelacakan penjualan dan target penjualan tim dengan dashboard intuitif.
 
 #### **ERP (Enterprise Resource Planning):**
 - Pengelolaan rantai pasokan dan manajemen inventori yang efisien.
