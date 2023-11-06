@@ -73,9 +73,38 @@ ZhiCRM adalah solusi terintegrasi yang menyatukan kekuatan CRM, ERP, HRMS, dan p
    - Hindari kekurangan bahan baku dan optimalkan persediaan.
 
 #### **HRMS (Human Resource Management System):**
-- Manajemen data karyawan yang komprehensif dan pelacakan histori pekerjaan.
-- Pengelolaan gaji, penilaian kinerja, dan pelatihan karyawan yang terjadwal.
-- Rekrutmen yang efisien dan pengembangan karir yang terfokus.
+
+1. **Manajemen Data Karyawan yang Komprehensif:**
+   - Rekam data pribadi, pekerjaan, dan riwayat karyawan dengan detail.
+   - Pantau perkembangan karir, pengalaman kerja, dan sertifikasi karyawan.
+
+2. **Pengelolaan Gaji dan Tunjangan yang Tepat Waktu:**
+   - Automatisasikan proses penggajian dan pelacakan perubahan tunjangan.
+   - Integrasi dengan sistem akuntansi untuk pengelolaan pembayaran gaji dan potongan.
+
+3. **Rekrutmen dan Pengembangan Karyawan yang Efisien:**
+   - Pantau posisi lowongan pekerjaan, terima lamaran, dan jadwalkan wawancara.
+   - Manajemen pelatihan dan pengembangan karyawan untuk peningkatan keterampilan.
+
+4. **Evaluasi Kinerja dan Pengembangan Karir yang Terfokus:**
+   - Tentukan metrik penilaian kinerja dan buat rencana pengembangan karyawan.
+   - Pantau evaluasi kinerja, berikan umpan balik, dan rencanakan pelatihan sesuai kebutuhan.
+
+5. **Integrasi Penggajian dengan Presensi dan Absensi:**
+   - Pantau absensi karyawan dan integrasikan dengan sistem penggajian.
+   - Rekam jam kerja, cuti, dan kehadiran untuk penggajian yang akurat.
+
+6. **Manajemen Pengeluaran Karyawan dan Izin:**
+   - Catat pengeluaran karyawan terkait bisnis dan rencanakan anggaran.
+   - Otomatisasikan proses permohonan izin dan verifikasi izin karyawan.
+
+7. **Manajemen Penghargaan dan Pengakuan Karyawan:**
+   - Pantau penghargaan dan pengakuan karyawan dengan catatan yang akurat.
+   - Sistem pengakuan dan penghargaan untuk meningkatkan motivasi karyawan.
+
+8. **Pelaporan Karyawan yang Teliti:**
+   - Hasilkan laporan data karyawan termasuk evaluasi kinerja, absensi, dan pelatihan.
+   - Analisis data karyawan untuk identifikasi tren dan kebutuhan pengembangan.
 
 #### **Perangkat Lunak Akuntansi:**
 - Pencatatan transaksi keuangan yang akurat dan laporan keuangan yang rinci.
