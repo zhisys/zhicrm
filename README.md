@@ -39,9 +39,38 @@ ZhiCRM adalah solusi terintegrasi yang menyatukan kekuatan CRM, ERP, HRMS, dan p
    - Pelacakan penjualan dan target penjualan tim dengan dashboard intuitif.
 
 #### **ERP (Enterprise Resource Planning):**
-- Pengelolaan rantai pasokan dan manajemen inventori yang efisien.
-- Pengelolaan pesanan pembelian dan produksi dengan pengawasan yang cermat.
-- Analisis data operasional untuk pengambilan keputusan yang berbasis data.
+
+1. **Pengelolaan Rantai Pasokan yang Efisien:**
+   - Pantau dan atur inventori dengan mudah.
+   - Pengelolaan pemesanan dan pengiriman untuk mengoptimalkan stok produk.
+
+2. **Manajemen Pesanan Pembelian dan Produksi yang Tepat Waktu:**
+   - Rekam pesanan pembelian, pelacakan pengiriman, dan konfirmasi penerimaan barang.
+   - Pengelolaan proses produksi dan pelacakan status pesanan dengan real-time.
+
+3. **Analisis Data Operasional yang Mendalam:**
+   - Lihat laporan analisis data operasional untuk mengevaluasi efisiensi dan produktivitas.
+   - Identifikasi tren produksi dan permintaan pasar melalui visualisasi data.
+
+4. **Pengelolaan Fasilitas Produksi dan Perencanaan Persediaan:**
+   - Atur jadwal produksi dan sumber daya manusia di fasilitas produksi.
+   - Perencanaan persediaan untuk menghindari kekurangan atau kelebihan stok barang.
+
+5. **Manajemen Pesanan dan Faktur dengan Akurasi Tinggi:**
+   - Rekam pesanan pelanggan dan proses fakturasi secara otomatis.
+   - Pelacakan pembayaran pelanggan dan pengelolaan tagihan dengan detil.
+
+6. **Integrasi yang Mulus dengan CRM:**
+   - Sinkronkan data pelanggan dengan informasi pesanan dan inventori.
+   - Pantau interaksi pelanggan dan tanggapan pelanggan terhadap pesanan.
+
+7. **Manajemen Pengadaan dan Penerimaan Barang yang Lancar:**
+   - Atur pengadaan barang dan penerimaan dengan mudah dari pemasok.
+   - Evaluasi kualitas barang saat penerimaan dan pantau riwayat penerimaan barang.
+
+8. **Pemantauan Ketersediaan Bahan Baku:**
+   - Pantau ketersediaan bahan baku dan bantu pengambilan keputusan pembelian.
+   - Hindari kekurangan bahan baku dan optimalkan persediaan.
 
 #### **HRMS (Human Resource Management System):**
 - Manajemen data karyawan yang komprehensif dan pelacakan histori pekerjaan.
