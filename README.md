@@ -163,5 +163,4 @@ ZhiCRM adalah solusi terintegrasi yang menyatukan kekuatan CRM, ERP, HRMS, dan p
    - Perlindungan data tingkat tinggi untuk melindungi informasi karyawan, inventori dan transaksi bisnis.
    - Pengelolaan izin pengguna dengan ketat untuk menjaga kerahasiaan data sensitif.
 
-### Bergabunglah dengan Kami dan Lihat Perubahan Nyata dalam Bisnis Anda!
-[Daftar Sekarang](#) untuk Uji Coba Gratis dan rasakan perbedaan dengan ZhiCRM. Bersama kami, keberhasilan bisnis Anda adalah prioritas utama.
+## Segera Hadir
