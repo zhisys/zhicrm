@@ -107,22 +107,61 @@ ZhiCRM adalah solusi terintegrasi yang menyatukan kekuatan CRM, ERP, HRMS, dan p
    - Analisis data karyawan untuk identifikasi tren dan kebutuhan pengembangan.
 
 #### **Perangkat Lunak Akuntansi:**
-- Pencatatan transaksi keuangan yang akurat dan laporan keuangan yang rinci.
-- Manajemen faktur, pembayaran, dan pelacakan tagihan dengan tepat waktu.
-- Pengelolaan anggaran dan pelaporan keuangan yang terperinci.
+
+1. **Pencatatan Transaksi Keuangan yang Akurat:**
+   - Rekam semua transaksi keuangan termasuk pemasukan, pengeluaran, dan investasi.
+   - Pelacakan transaksi klien dan pemasok dengan rinci.
+
+2. **Manajemen Faktur dan Pembayaran yang Efisien:**
+   - Buat faktur penjualan secara otomatis dan kirim langsung kepada pelanggan.
+   - Pantau faktur yang belum dibayar dan kirim pengingat pembayaran secara otomatis.
+
+3. **Pelacakan Pembayaran Pelanggan dan Pemasok:**
+   - Rekam pembayaran pelanggan dan pemasok secara akurat.
+   - Pantau status pembayaran dan lakukan rekonsiliasi dengan bank secara otomatis.
+
+4. **Pelaporan Keuangan yang Mendalam:**
+   - Hasilkan laporan keuangan yang komprehensif seperti neraca, laporan laba rugi, dan arus kas.
+   - Analisis kinerja keuangan melalui grafik dan visualisasi data yang informatif.
+
+5. **Manajemen Anggaran dan Pengeluaran yang Teliti:**
+   - Tentukan anggaran bisnis dan pantau realisasi anggaran secara teratur.
+   - Catat pengeluaran operasional dan lihat perbandingan dengan anggaran yang telah ditetapkan.
+
+6. **Integrasi dengan Modul Lain:**
+   - Sinkronkan data keuangan dengan modul CRM untuk pelacakan penjualan dan kampanye pemasaran.
+   - Integrasi dengan modul ERP untuk pemantauan stok dan pengelolaan pesanan pembelian.
+
+7. **Manajemen Aset dan Investasi:**
+   - Pantau aset bisnis dan nilai investasi dengan detail.
+   - Catat perubahan nilai aset dan pantau kinerja investasi dengan laporan yang tepat waktu.
+
+8. **Pajak dan Kepatuhan yang Otomatis:**
+   - Hitung pajak secara otomatis dan hasilkan laporan pajak sesuai dengan peraturan terkini.
+   - Pastikan kepatuhan bisnis Anda dengan pajak dan regulasi terbaru.
 
 ### Mengapa Memilih ZhiCRM?
-1. **Terintegrasi dengan Mulus:**
+     
+1. **Terintegrasi dengan Sempurna:**
+   - Semua fitur akuntansi terhubung dengan modul CRM, ERP, HRMS, dan lainnya untuk data yang konsisten.
+   - Pantau performa keuangan Anda melalui dashboard terpadu.
    - Semua fitur terintegrasi dengan lancar untuk pertukaran data yang cepat dan akurat.
    - Tidak ada kebutuhan untuk menggunakan aplikasi terpisah, menghemat waktu dan upaya.
+   - Sinkronkan data karyawan dengan informasi pelanggan dan operasional untuk keputusan yang berbasis data.
 
 2. **Kustomisasi Tanpa Batas:**
+   - Tambahkan kolom kustom, formulir, dan alur kerja sesuai dengan keinginan Anda.
    - Sesuaikan platform sesuai dengan kebutuhan bisnis Anda tanpa batasan.
    - Tambahkan atau hapus modul sesuai dengan perkembangan bisnis Anda.
+   - Buat formulir pengajuan izin, format evaluasi kinerja, dan rencana pelatihan yang sesuai.
+   - Buat proses produksi dan manajemen inventori sesuai dengan spesifikasi bisnis Anda.
+   - Sesuaikan modul akuntansi sesuai kebutuhan bisnis Anda tanpa batasan.
 
 3. **Pemantauan Keamanan yang Ketat:**
    - Keamanan data tingkat tinggi untuk melindungi informasi pelanggan, karyawan, dan keuangan.
    - Pengaturan izin pengguna yang cermat untuk kontrol akses yang tepat.
+   - Perlindungan data tingkat tinggi untuk melindungi informasi karyawan, inventori dan transaksi bisnis.
+   - Pengelolaan izin pengguna dengan ketat untuk menjaga kerahasiaan data sensitif.
 
 ### Bergabunglah dengan Kami dan Lihat Perubahan Nyata dalam Bisnis Anda!
 [Daftar Sekarang](#) untuk Uji Coba Gratis dan rasakan perbedaan dengan ZhiCRM. Bersama kami, keberhasilan bisnis Anda adalah prioritas utama.
