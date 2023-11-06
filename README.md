@@ -242,57 +242,57 @@ ZhiCRM adalah solusi terintegrasi yang menyatukan kekuatan CRM, ERP, HRMS, dan p
 
    1. **Pengelolaan Rantai Pasokan yang Efisien:**
       - **Pantau Stok Barang dengan Real-time:**
-     	  - Lihat jumlah stok barang secara real-time dan pantau perubahan stok secara otomatis.
-     	  - Terima notifikasi saat stok mencapai batas minimum untuk menghindari kehabisan barang.
+        - Lihat jumlah stok barang secara real-time dan pantau perubahan stok secara otomatis.
+        - Terima notifikasi saat stok mencapai batas minimum untuk menghindari kehabisan barang.
 
-     	- **Optimalkan Pemesanan dan Persediaan:**
-     	  - Analisis data stok untuk merencanakan pesanan pembelian dengan cerdas.
-     	  - Tentukan jumlah pesanan optimal berdasarkan permintaan pelanggan dan prediksi penjualan.
+      - **Optimalkan Pemesanan dan Persediaan:**
+        - Analisis data stok untuk merencanakan pesanan pembelian dengan cerdas.
+        - Tentukan jumlah pesanan optimal berdasarkan permintaan pelanggan dan prediksi penjualan.
 
-     	- **Pelacakan Batch dan Nomor Seri:**
-     	  - Lacak barang berdasarkan nomor batch atau nomor serinya untuk kepatuhan dan pelacakan kualitas.
-     	  - Pantau pergerakan setiap barang dalam rantai pasokan dengan detail.
+      - **Pelacakan Batch dan Nomor Seri:**
+        - Lacak barang berdasarkan nomor batch atau nomor serinya untuk kepatuhan dan pelacakan kualitas.
+        - Pantau pergerakan setiap barang dalam rantai pasokan dengan detail.
 
-     	- **Manajemen Barang Kembali dan Retur:**
-     	  - Kelola proses pengembalian barang dan retur pelanggan dengan mudah.
-     	  - Catat alasan retur untuk analisis kualitas dan perbaikan produk.
+      - **Manajemen Barang Kembali dan Retur:**
+        - Kelola proses pengembalian barang dan retur pelanggan dengan mudah.
+        - Catat alasan retur untuk analisis kualitas dan perbaikan produk.
 
-     	- **Integrasi dengan Pemasok:**
-     	  - Sinkronkan data stok dengan pemasok untuk memantau ketersediaan barang dan harga pembelian.
-     	  - Otomatisasikan pesanan pembelian berdasarkan stok yang rendah atau permintaan pelanggan.
+      - **Integrasi dengan Pemasok:**
+        - Sinkronkan data stok dengan pemasok untuk memantau ketersediaan barang dan harga pembelian.
+        - Otomatisasikan pesanan pembelian berdasarkan stok yang rendah atau permintaan pelanggan.
 
-     	- **Pengelolaan Lokasi Stok:**
-     	  - Tentukan lokasi penyimpanan stok dan pantau perpindahan barang antar gudang atau cabang.
-     	  - Optimalkan alokasi stok untuk memenuhi permintaan pelanggan dengan cepat dan efisien.
+      - **Pengelolaan Lokasi Stok:**
+        - Tentukan lokasi penyimpanan stok dan pantau perpindahan barang antar gudang atau cabang.
+        - Optimalkan alokasi stok untuk memenuhi permintaan pelanggan dengan cepat dan efisien.
 
-     	- **Pelacakan Kondisi Barang:**
-     	  - Lacak kondisi fisik barang, termasuk cacat atau kerusakan, untuk manajemen garansi dan klaim.
-     	  - Pantau siklus hidup produk dan pantau perawatan atau penggantian barang.
+      - **Pelacakan Kondisi Barang:**
+        - Lacak kondisi fisik barang, termasuk cacat atau kerusakan, untuk manajemen garansi dan klaim.
+        - Pantau siklus hidup produk dan pantau perawatan atau penggantian barang.
 
    2. **Manajemen Pesanan Pembelian dan Produksi yang Tepat Waktu:**
-      	- **Rekam Pesanan Pembelian dengan Mudah:**
-      	  - Buat pesanan pembelian secara cepat dan efisien dengan rincian produk, jumlah, dan pemasok.
-      	  - Rekam detail harga, diskon, dan syarat pembayaran untuk transparansi keuangan yang optimal.
+      - **Rekam Pesanan Pembelian dengan Mudah:**
+        - Buat pesanan pembelian secara cepat dan efisien dengan rincian produk, jumlah, dan pemasok.
+        - Rekam detail harga, diskon, dan syarat pembayaran untuk transparansi keuangan yang optimal.
 
-      	- **Pelacakan Pengiriman dan Penerimaan Barang:**
-      	  - Pantau status pengiriman pesanan pembelian secara real-time.
-      	  - Catat penerimaan barang dengan memverifikasi kualitas dan jumlah sesuai pesanan.
+      - **Pelacakan Pengiriman dan Penerimaan Barang:**
+        - Pantau status pengiriman pesanan pembelian secara real-time.
+        - Catat penerimaan barang dengan memverifikasi kualitas dan jumlah sesuai pesanan.
 
-      	- **Pengelolaan Supplier dengan Efisien:**
-      	  - Pantau kinerja pemasok dan evaluasi keandalan mereka dalam pengiriman tepat waktu.
-      	  - Evaluasi pemasok berdasarkan kualitas produk dan layanan pelanggan untuk pengambilan keputusan yang cerdas.
+      - **Pengelolaan Supplier dengan Efisien:**
+        - Pantau kinerja pemasok dan evaluasi keandalan mereka dalam pengiriman tepat waktu.
+        - Evaluasi pemasok berdasarkan kualitas produk dan layanan pelanggan untuk pengambilan keputusan yang cerdas.
 
-      	- **Pencatatan Produksi yang Terperinci:**
-      	  - Rekam proses produksi dengan detail, termasuk biaya bahan baku, tenaga kerja, dan overhead.
-      	  - Pantau perkembangan produksi dan identifikasi potensi bottleneck dalam rantai produksi.
+      - **Pencatatan Produksi yang Terperinci:**
+        - Rekam proses produksi dengan detail, termasuk biaya bahan baku, tenaga kerja, dan overhead.
+        - Pantau perkembangan produksi dan identifikasi potensi bottleneck dalam rantai produksi.
 
-      	- **Perencanaan dan Manajemen Persediaan yang Efektif:**
-      	  - Rencanakan produksi berdasarkan pesanan pelanggan, permintaan pasar, dan stok yang ada.
-      	  - Pantau perubahan dalam permintaan pasar dan sesuaikan produksi secara dinamis untuk menghindari overproduksi atau kekurangan stok.
+      - **Perencanaan dan Manajemen Persediaan yang Efektif:**
+        - Rencanakan produksi berdasarkan pesanan pelanggan, permintaan pasar, dan stok yang ada.
+        - Pantau perubahan dalam permintaan pasar dan sesuaikan produksi secara dinamis untuk menghindari overproduksi atau kekurangan stok.
 
-      	- **Analisis Data Produksi untuk Peningkatan Efisiensi:**
-      	  - Analisis data produksi untuk mengidentifikasi area-area yang dapat dioptimalkan.
-      	  - Gunakan laporan produksi untuk mengambil keputusan strategis dan meningkatkan efisiensi operasional.
+      - **Analisis Data Produksi untuk Peningkatan Efisiensi:**
+        - Analisis data produksi untuk mengidentifikasi area-area yang dapat dioptimalkan.
+        - Gunakan laporan produksi untuk mengambil keputusan strategis dan meningkatkan efisiensi operasional.
 
    3. **Analisis Data Operasional yang Mendalam:**
       - **Visualisasi Data yang Menyeluruh:**
