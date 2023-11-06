@@ -23,7 +23,3 @@ Sistem Manajemen Pelanggan adalah solusi terdepan untuk membantu bisnis Anda mem
 - **Peningkatan Penjualan:** Analisis data pelanggan membantu Anda merancang strategi penjualan yang lebih terarah dan efektif.
 
 - **Efisiensi Operasional:** Mengotomatiskan proses pelacakan pelanggan dan interaksi, membebaskan waktu dan sumber daya internal untuk fokus pada pertumbuhan bisnis.
-
-## Bergabunglah dengan Kami Hari Ini!
-
-Bergabunglah dengan kami dan temukan bagaimana Sistem Manajemen Pelanggan kami dapat membantu bisnis Anda mencapai keunggulan dalam pelayanan pelanggan. [Daftar Sekarang](#) dan tingkatkan hubungan pelanggan Anda ke level yang baru.
